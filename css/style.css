@@ -366,6 +366,7 @@ footer #redes-s > div{  /*PARA QUE AGARRE TODOS LOS DIV DE REDES-S*/
   float: left;
   /*background: #ff8000;*/
   opacity: 0.7; /*es de 0-1*/
+  transition: 0.3s;
 
 }
 
@@ -393,6 +394,7 @@ background: url(../imagenesmuestra/facebook.png);
 
 footer #redes-s > div:hover{
   opacity: 1;
+  transform: scale(1.2);
 }
 #copyright{
   width: 960;
