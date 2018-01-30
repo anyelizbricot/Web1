@@ -8,25 +8,28 @@ header{
 	top: 0;
 	background: rgba(255, 255, 255, 1);
 	box-shadow: 0 3px 5px rgba(0, 0, 0,.3);
-   left: 0;
+  left: 0;
+
+/*SOLO PARA EL USO DE JS CSS VISIBLE*/
+/*
 	transition:500ms;
 	-ms-transform: translate(0px,-100px);
     -webkit-transform:translate(0px,-100px);
     -moz-transform:translate(0px,-100px);
     transform: translate(0px,-100px);
-
+*/
 
 }
-.visible{
+/*SOLO PARA EL USO DE JS*/
+/*.visible{
 	-ms-transform: translate(0px,0px);
 	-moz-transform: translate(0px,0px);
 	-webkit-transform: translate(0px,0px);
    	transform: translate(0px,0px);
 }
-
+*/
 .nav{
 	float: right;
-
 	text-align: center;
 }
 .nav li{
@@ -34,23 +37,23 @@ header{
    position: relative;
 }
 .nav li a{
-   float:left;
-	line-height: 100px;
+  float:left;
+	line-height: 100px;/*la altura de las letras en verticar dentro del header*/
 	color: #101010;
 	position: relative;
 	font-size: 16px;
-	height: 100px;
-	font-weight: 400;
+	height: 100px;/*para la altura del header*/
+	font-weight: 400;/*modifica la anchura de las letras*/
 	overflow: hidden;
-	transition:500ms;
-   padding:0 25px;
-   font-family: sans-serif;
-   z-index:1;
-   text-decoration: none;
+	transition:500ms;/*tiempo de cambio de color en al tocar estos elementos*/
+  padding:0 25px;
+  font-family: sans-serif;
+  z-index:1;/*posicion del elemento*/
+  text-decoration: none;
 }
 
 .nav li:after{
-	content: "";
+	content: "";/*usado para agregar contenido y es usado con el after y before*/
 	position: absolute;
 	left: 0;
 	bottom: 0;
@@ -99,7 +102,7 @@ a:hover{
   text-decoration:underline;
 }
 #wrap{
-  width: 96%;
+  width: 95%;
   max-width: 960px;
   box-sizing: border-box;
   margin: auto;
@@ -146,24 +149,32 @@ transform:translate(0, 20px);
 }
 }
 */
+@media all and (max-width:696px){
+	#wrap{
+		margin:110px 0px 0px 10px;
+	}
+}
 
 @media screen and (max-width:700px) {
+
 #slideshow{
   width: 100%;
   height: auto;
   box-sizing: border-box;
+
 }
   #main{
     width:50%;
     background: rgb(207, 233, 9);
     float: left;
   }
- #subheader{
+	/*del otro menu*/
+/* #subheader{
    width: 96%;
    height: auto;
    box-sizing: border-box;
    float: left;
-}
+}*/
 #Bienvenidos{
   width: 100%;
 }
