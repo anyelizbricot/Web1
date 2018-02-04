@@ -149,6 +149,8 @@ transform:translate(0, 20px);
 }
 }
 */
+
+/*MEDIA*/
 @media all and (max-width:696px){
 	#wrap{
 		margin:110px 0px 0px 10px;

@@ -1,0 +1,72 @@
+commit aee65eec5f21e699405920faa2e3111a0efc72ed
+Author: anyelizbricot <anyeliz88_$>
+Date:   Sun Feb 4 15:05:31 2018 -0400
+
+    ortografia
+
+commit e257b35aa6fd7fa5885112feddc3f918b50a8506
+Author: anyelizbricot <anyeliz88_$>
+Date:   Mon Jan 29 22:15:23 2018 -0400
+
+    modificacion del css y header
+
+commit f00e3d417c2099f67720846027dd67f8d2fd2bd4
+Author: anyelizbricot <anyeliz88_$>
+Date:   Mon Jan 29 03:05:49 2018 -0400
+
+    se agrego un menu diferente
+
+commit b1b91110547a1551fef814084e6743b3f22c59a3
+Author: anyelizbricot <anyeliz88_$>
+Date:   Mon Jan 29 01:18:18 2018 -0400
+
+    modificando header
+
+commit ff2280ea59be8b8b0739f6220a08b9301e60fe4f
+Merge: 22abf36 53e4288
+Author: anyelizbricot <anyelizbricot@gmail.com>
+Date:   Sun Jan 28 20:05:38 2018 -0400
+
+    Merge branch 'master' of https://github.com/anyelizbricot/Web1
+
+commit 53e428831a52959622572b87efaedf00171d25f4
+Author: arico <anyelizbricot@gmail.com>
+Date:   Sun Jan 28 19:25:26 2018 -0400
+
+    Initial commit
+
+commit 22abf360e342e14569e70457b31654e141d2f851
+Author: anyelizbricot <anyelizbricot@gmail.com>
+Date:   Sun Jan 28 18:19:44 2018 -0400
+
+    se agrego animacion y codigo prueba
+
+commit 3a5db56cd3d40eb8db9dd54c823498c28f3dc7e8
+Author: anyelizbricot <anyelizbricot@gmail.com>
+Date:   Sun Jan 28 16:54:40 2018 -0400
+
+    se agrego animacion al redes-s
+
+commit abd75dceb66df794d99a1b15476c32ae561b6bb3
+Author: anyelizbricot <anyelizbricot@gmail.com>
+Date:   Sun Jan 28 15:20:22 2018 -0400
+
+    agregue h temas
+
+commit 2d2429cafad62c44338204e610ac8d9d52b02348
+Author: anyelizbricot <anyelizbricot@gmail.com>
+Date:   Sun Jan 28 14:33:59 2018 -0400
+
+    agregue contacto en index
+
+commit 707b2e9f5514d37881b82f8443a5a8bca2f187a0
+Author: anyelizbricot <anyelizbricot@gmail.com>
+Date:   Sun Jan 28 14:32:09 2018 -0400
+
+    este fue mi ultimo
+
+commit 40d2c79bc066f3f79fa1690b346db10c96208f88
+Author: anyelizbricot <anyelizbricot@gmail.com>
+Date:   Sun Jan 28 13:35:52 2018 -0400
+
+    Inicio
